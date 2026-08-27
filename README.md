@@ -67,7 +67,7 @@ Mi objetivo principal es combinar la solidez de las **pruebas manuales (funciona
     
 
 
-   * [Informe de Cobertura y Resultados](LINK_A_TU_INFORME)
+   * [Informe de Cobertura y Resultados](LINK_A_MI_INFORME)
 
  2. Pruebas de API REST con Postman
 * **Descripción:** Pruebas funcionales sobre endpoints de API para verificación de respuestas HTTP (200, 400, 404), payload de datos y validación de esquemas JSON.
