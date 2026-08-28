@@ -1,25 +1,33 @@
- Sobre mí 👋
+# Portafolio QA - Julio
 
-¡Hola! Soy **Julio**, QA Engineer en proceso de formación continua y orientación hacia la **Automatización de Pruebas (QA Automation)**. Me apasiona garantizar la calidad del software, la usabilidad y la estabilidad de las aplicaciones mediante un enfoque analítico y estructurado.
+## Sobre mí 👋
 
-Mi objetivo principal es combinar la solidez de las **pruebas manuales (funcionales, API y UI)** con la eficiencia de la **automatización de pruebas**, ayudando a los equipos a entregar productos fiables y sin errores críticos.
+¡Hola! Soy **Julio**, QA Engineer orientado a la **Automatización de Pruebas (QA Automation)**. Me enfoco en garantizar la calidad, usabilidad y estabilidad del software aplicando un pensamiento analítico, diseño de pruebas riguroso y automatización eficiente.
 
-[Mi perfil de LinkedIn] linkedin/in/julio-delamar-7aa79120a
+[Mi perfil de LinkedIn](https://www.linkedin.com/in/julio-delamar-7aa79120a)
 
 ---
 
- Habilidades técnicas 💻
+## 🚀 Empieza aquí (Navegación del Portafolio)
 
- Pruebas de Software & Metodologías
+| Proyecto | Tipo de Pruebas | Artefactos destacados | Enlace al repositorio |
+| :--- | :--- | :--- | :--- |
+| **Urban Routes** | E2E, UI, Funcional | Casos de Prueba, Reportes de Errores, Scripts Selenium | [Ver Proyecto](./qa-project-Urban-Routes-es) |
+| **Urban Grocers** | API REST, Backend | Colección de Postman, Validaciones JSON, Pytest | [Ver Proyecto](./qa-project-Urban-Grocers-app-es) |
+
+---
+
+## Habilidades técnicas 💻
+
+### Pruebas de Software & Metodologías
 * **Tipos de Pruebas:** Funcionales, Regresión, Humo (Smoke), UAT, API REST, E2E.
-* **Diseño de Pruebas:** Creación de Casos de Prueba, Planes de Prueba, Matrices de Cobertura y Reportes de Errores.
-* **Metodologías:** Scrum / Ágil, ciclo de vida del software (STLC / SDLC).
-* **Conocimientos teóricos:** Fundamentos ISTQB.
+* **Diseño de Pruebas:** Casos de Prueba, Planes de Prueba, Matrices de Cobertura y Reportes de Defectos.
+* **Metodologías & Marcos:** Scrum / Ágil, SDLC / STLC, Fundamentos ISTQB.
 
- Automatización & Desarrollo
-* **Lenguajes:** Python (básico/intermedio) / JavaScript.
-* **Herramientas de Automatización:** Selenium WebDriver, Pytest / Cypress (en proceso de aprendizaje práctico).
-* **Bases de Datos & SQL:** Consultas estructuradas para validación de datos.
+### Automatización & Desarrollo
+* **Lenguajes:** Python / JavaScript.
+* **Herramientas de Automatización:** Selenium WebDriver, Pytest / Cypress (en desarrollo práctico).
+* **Bases de Datos & SQL:** Consultas estructuradas para validación e integridad de datos.
 
 | Sintaxis y ejecución | Operadores | Funciones de agregación |
 | :--- | :--- | :--- |
@@ -30,49 +38,17 @@ Mi objetivo principal es combinar la solidez de las **pruebas manuales (funciona
 
 ---
 
- Herramientas 🛠️
+## Herramientas 🛠️
 
-* **Gestión & Bugs:** Jira, Trello, Confluence.
+* **Gestión & Bugs:** Jira, Trello, Confluence, GitHub Issues.
 * **Pruebas de API:** Postman, Insomnia.
 * **Control de Versiones & Entorno:** Git, GitHub, VS Code, PyCharm.
-* **Otras Herramientas:** Chrome DevTools, Markdown, Google Drive.
+* **Otras Herramientas:** Chrome DevTools, Markdown.
 
 ---
 
- Habilidades blandas 🤝
+## Habilidades blandas 🤝
 
-* **Atención al detalle y precisión** (orientado a la detección de casos bordes).
-* **Comunicación clara y asertiva** al redactar reportes de errores.
-* **Pensamiento analítico y resolución de problemas.**
-* **Trabajo en equipo y adaptabilidad.**
-
----
-
- Proyectos & Muestras de Trabajo 🔬
-
- 1. Urban Routes (Pruebas E2E y Validación de Flujo)
-* **Descripción:** Validación integral del flujo de reserva de transporte, desde la selección de ruta hasta la confirmación de viaje y métodos de pago.
-* **Entregables:**
-  * [Plan de Pruebas / Matriz de Casos]
-  * 
- 
-  * [Reporte de Errores en Jira/GitHub]
-  * https://juliodelamar101010.atlassian.net/browse/TQ-39
-  * https://juliodelamar101010.atlassian.net/browse/TQ-38
-  * https://juliodelamar101010.atlassian.net/browse/TQ-37
-  * https://juliodelamar101010.atlassian.net/browse/TQ-36
-  * https://juliodelamar101010.atlassian.net/browse/TQ-35
-  * https://juliodelamar101010.atlassian.net/browse/TQ-34
-  * https://juliodelamar101010.atlassian.net/browse/TQ-33
-    
-
-
-   * [Informe de Cobertura y Resultados](LINK_A_MI_INFORME)
-
- 2. Pruebas de API REST con Postman
-* **Descripción:** Pruebas funcionales sobre endpoints de API para verificación de respuestas HTTP (200, 400, 404), payload de datos y validación de esquemas JSON.
-* **Entregables:**
-  * [Colección de Postman]
-
----
--->
+* **Atención al detalle y precisión** (foco en casos borde y de límite).
+* **Comunicación clara y asertiva** al documentar hallazgos y defectos.
+* **Pensamiento analítico y priorización basada en riesgo.**
