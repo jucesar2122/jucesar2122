@@ -12,9 +12,8 @@
 
 | Proyecto | Tipo de Pruebas | Artefactos destacados | Enlace al repositorio |
 | :--- | :--- | :--- | :--- |
-| **Urban Routes** | E2E, UI, Funcional | Casos de Prueba, Reportes de Errores, Scripts Selenium | [Ver Proyecto]|https://github.com/jucesar2122/qa-project-Urban-Routes-es.git
-| **Urban Grocers** | API REST, Backend | Colección de Postman, Validaciones JSON, Pytest | [Ver Proyecto](./qa-project-Urban-Grocers-app-es) |https://github.com/jucesar2122/qa-project-Urban-Grocers-app-es.git
-
+| **Urban Routes** | E2E, UI, Funcional | Casos de Prueba, Reportes de Errores, Scripts Selenium | [Ver Proyecto](https://github.com/jucesar2122/qa-project-Urban-Routes-es) |
+| **Urban Grocers** | API REST, Backend | Colección de Postman, Validaciones JSON, Pytest | [Ver Proyecto](https://github.com/jucesar2122/qa-project-Urban-Grocers-app-es) |
 ---
 
 ## Habilidades técnicas 💻
