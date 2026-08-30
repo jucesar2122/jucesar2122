@@ -4,8 +4,10 @@
 
 ¡Hola! Soy **Julio**, QA Engineer orientado a la **Automatización de Pruebas (QA Automation)**. Me enfoco en garantizar la calidad, usabilidad y estabilidad del software aplicando un pensamiento analítico, diseño de pruebas riguroso y automatización eficiente.
 
-[Mi perfil de LinkedIn](https://www.linkedin.com/in/julio-delamar-7aa79120a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-delamar-7aa79120a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliodelamar@gmail.com)
 
+✉️ **Contacto directo:** [juliodelamar@gmail.com](mailto:juliodelamar@gmail.com)
 
 ---
 
@@ -15,6 +17,7 @@
 | :--- | :--- | :--- | :--- |
 | **Urban Routes** | E2E, UI, Funcional | Casos de Prueba, Reportes de Errores, Scripts Selenium | [Ver Proyecto](https://github.com/jucesar2122/qa-project-Urban-Routes-es) |
 | **Urban Grocers** | API REST, Backend | Colección de Postman, Validaciones JSON, Pytest | [Ver Proyecto](https://github.com/jucesar2122/qa-project-Urban-Grocers-app-es) |
+
 ---
 
 ## Habilidades técnicas 💻
